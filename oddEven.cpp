@@ -12,4 +12,5 @@ int main(){
     else if(n%2!=0)
         cout<<"odd number.";
 
+
 }
