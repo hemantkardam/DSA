@@ -207,6 +207,7 @@ while(i<=n)
     }
     cout<<endl;
     i++;
+    
 }
 }
        
