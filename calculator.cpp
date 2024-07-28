@@ -4,6 +4,7 @@ using namespace std;
 int main(){
     char a;
     int m,n;
+    
 
     cout<<"Enter a two number: ";
     cin>>m>>n;
