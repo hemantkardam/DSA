@@ -10,7 +10,6 @@
 #include<cstdlib>
 #include<ctime>
 
-
 int main(){
     int rN;
     rN=rand();
