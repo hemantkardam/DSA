@@ -125,6 +125,8 @@
         cout<<"It is a rectangle."<<endl;
     }
 
+//---------- WAP to check Who is youngest Person. -----------------
+
     float Youngest(float a,float  b,float c){
         if(a>b){
             if(a>c){
@@ -144,13 +146,26 @@
             cout<<"Youngest man is Last :"<<c<<endl;
     }
  
+// WAP a program to check a given number is Even  or Odd.
+
+    int even(int a){
+        if(a==0)
+        cout<<"The number is zero,its not a even or odd.";
+        else if(a%2==0)
+        cout<<"It is even number.";
+    else if(a%2!=0)
+    cout<<"It is odd number.";
+    }
+
 int main()
 {
     float a,c,b;
     int d,e,f,g;
     
-    // cout<<"Enter a three number :";
-    // cin>>a>>b>>c;
+    // cout<<"Enter a number :";
+    // cin>>a;
+    // cin>>b;
+    // cin>>c;
     // cout<<"Enter a Year :";
     // cin>>d;
     // cout<<"Enter a Number of a month :";
@@ -169,4 +184,5 @@ int main()
     // Calendar(e);
     // checkShape(f,g);
     // Youngest(a,b,c);
+    // even(a);
 }
