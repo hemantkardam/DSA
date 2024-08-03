@@ -7,6 +7,7 @@ int sum(int c, int d ){
     return e*c;
 }
 
+
 int main(){
 int a ,b;
 cout<<"Enter a two number :";
