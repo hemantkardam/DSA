@@ -6,6 +6,7 @@ int main(){
     cout<<"Enter a Number :";
     cin>>n;
 
+
 //
 // int i=1;
 // while(i<=n)
