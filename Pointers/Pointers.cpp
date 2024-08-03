@@ -48,6 +48,7 @@ int main(){
     // char cd='A';
     // char *ch=&cd;
 
+
     // cout<<cd<<endl;
     // cout<<*ch<<endl;
     // cout<<(void*)ch<<endl;
