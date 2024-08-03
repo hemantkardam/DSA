@@ -7,6 +7,7 @@ int main(){
     cin>>n;
 
 // ----------- For a Right angle Triangle with Hollow ----------------
+
     int i=1;
     while(i<=n){
         int j=1;
