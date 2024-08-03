@@ -12,6 +12,7 @@ int main(){
     cout<<endl;
     cout<<"Address of P :"<<&p<<endl;
 
+
     int **ptr=&p;
     cout<<"Value of P :"<<*ptr<<endl;
     cout<<"Address of P :"<<ptr<<endl;
