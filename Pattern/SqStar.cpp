@@ -6,6 +6,7 @@ int main(){
     int n;
     cout<<"Enter a number :";
     cin>>n;
+    
 // ------------By For Loop ---------------
     // for(int i=1;i<=n;i++)
     // {
