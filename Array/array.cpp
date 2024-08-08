@@ -10,7 +10,6 @@ int main(){
     // cout<<a<<endl;
     // cout<<*a<<endl;
 
-
     int *arr=new int[10];
 
     for(int i=0;i<10;i++){
