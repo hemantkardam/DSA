@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 
+
 void sumArray(int *a,int *ptrSize){
     int sum=0;
     for(int i=0;i<*ptrSize;i++)
