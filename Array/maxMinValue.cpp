@@ -62,6 +62,7 @@ void MinWithZero(int *a,int size){
     cout<<"Maximum value of array : "<<min<<endl;
 }
 
+
 int main(){
     int a[]={4,2,24,5,6,7,8,4,33,2,1,9};
     int size=sizeof(a)/sizeof(int);
