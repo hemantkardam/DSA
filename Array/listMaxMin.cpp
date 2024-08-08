@@ -6,6 +6,7 @@ void MaxWithClimits(int *a,int size){
     int max=INT_MIN;
     int scndMax=INT_MIN;
     int thirdMax=INT_MIN;
+    
     for(int i=0;i<size;i++)
     {
         if(a[i]>thirdMax)
@@ -59,7 +60,7 @@ void MinWithClimits(int *a,int size){
 }
 
 int main(){
-    int a[]={3,5,7,8,4,2,1,20,30,10,40,0};
+    int a[]={3,5,7,8,4,2,1,20,30,10,40,0,0,1,40,40,30};
     int size=sizeof(a)/sizeof(int);
     MaxWithClimits(a,size);   
     MinWithClimits(a,size);   
