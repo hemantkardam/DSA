@@ -50,6 +50,7 @@ void MaxWithZero(int *a,int size){
     }
     cout<<"Maximum value of array : "<<max<<endl;
 }
+
 void MinWithZero(int *a,int size){
     int min=0;
     for(int i=0;i<size;i++)
@@ -59,6 +60,7 @@ void MinWithZero(int *a,int size){
             min=a[i];
         }
     }
+
     cout<<"Maximum value of array : "<<min<<endl;
 }
 
