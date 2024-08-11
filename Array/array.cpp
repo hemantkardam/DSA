@@ -9,7 +9,9 @@ int main(){
     // cout<<endl<<&a<<endl;
     // cout<<a<<endl;
     // cout<<*a<<endl;
+    
 
+    int *arr=new int[10];
     int *arr=new int[10];
 
     for(int i=0;i<10;i++){
