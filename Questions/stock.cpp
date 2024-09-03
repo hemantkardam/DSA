@@ -1,0 +1,2 @@
+// The cost of a stock on each day is given in an array find the max proift that u can make by buying & selling  on those day if the given  array of prices is sorted in decreasing order than profit cannot be earned at all.
+//   
