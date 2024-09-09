@@ -10,7 +10,7 @@ int LargestArr(int *arr,int n){
             sm = max;
             max=arr[i];
         }
-        if(sm<arr[i] && arr[i]!=max){
+       else if(sm<arr[i] && arr[i]!=max){
             sm=arr[i];
         }
     }
@@ -18,7 +18,7 @@ int LargestArr(int *arr,int n){
 }
 
 int main(){
-    int arr[10]={1,2,3,4,5,6};
+    int arr[10]={2,3,5,8,3,8,3,4};
     int n = sizeof(arr)/sizeof(arr[0]);
     LargestArr(arr,n);
     return 0;
