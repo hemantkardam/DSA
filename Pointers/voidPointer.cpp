@@ -10,6 +10,7 @@ int main(){
     void *d=&b;
     void *e=&c;
 
+
     cout<<s<<endl;
     cout<<d<<endl;
     cout<<e<<endl;
