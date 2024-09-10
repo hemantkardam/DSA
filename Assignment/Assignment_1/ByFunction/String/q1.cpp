@@ -37,6 +37,7 @@ void findFrequency(string str,int n){
     }
 }
 
+
 int main(){
     string str;
     getline(cin,str);
