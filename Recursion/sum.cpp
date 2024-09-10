@@ -15,6 +15,7 @@ int func1(int n,int k){
     }
     return func1(n-1,k*n);
 }
+
 int main(){
     int n;
     int k=1;
