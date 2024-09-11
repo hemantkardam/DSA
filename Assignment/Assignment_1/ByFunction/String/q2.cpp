@@ -39,6 +39,7 @@ void isPalindrome(string str,int n){
     // cout<<"True"<<endl;
 }
 
+
 int main(){
     string str;
     getline(cin,str);
