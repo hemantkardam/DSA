@@ -20,6 +20,7 @@
 // r: 1
 // d: 1
 
+
 #include<iostream>
 #include<string>
 using namespace std;
