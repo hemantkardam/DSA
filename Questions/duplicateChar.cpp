@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 
+
 int check(char *arr,int n){
     for(int i=0;i<n;i++){
         for(int j=i+1;j<=n-1;j++){
