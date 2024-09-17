@@ -24,6 +24,7 @@ int main(){
     // n.pop_back();
     // cout<<n<<endl; // for pop a last character in string.
     
+    
     // cout<<a+1<<endl;
     // cout<<convert<<endl;
     // cout<<typeid(convert).name();
