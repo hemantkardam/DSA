@@ -12,6 +12,7 @@ using namespace std;
 // int main(){
 //     int n;
 //     cin>>n;
+
 //     // int k=1;
 //     // cout<<
 //     print(n,1);
@@ -27,6 +28,8 @@ int func(int n){
 }
 
 int main(){
+    int n;
+    cin>>n;
     cout<<func(5);
 
     return 0;
