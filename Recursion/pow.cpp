@@ -3,11 +3,9 @@ using namespace std;
 
 int pow(int a,int p,int count){
     // int count=1;
-    
 
 
 }
-
 int main(){
     int a,p;
     int count=1;
