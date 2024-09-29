@@ -9,8 +9,6 @@ int fac(int a){
     return a*fac(a-1);
 }
 
-
-
 int main(){
     int a;
     cin>>a;
