@@ -6,6 +6,7 @@ int pow(int a,int p,int count){
 
 
 }
+
 int main(){
     int a,p;
     int count=1;
