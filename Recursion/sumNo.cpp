@@ -13,3 +13,4 @@ int main(){
     cin>>n;
     cout<<sum(n);
 }
+
