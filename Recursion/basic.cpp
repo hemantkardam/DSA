@@ -10,8 +10,6 @@ using namespace std;
         cout<<n<<endl;
         m5(n-1);
     }
-    
-
     void m3(int n){
         cout<<n<<endl;
         m4(n-1);
