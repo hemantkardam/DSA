@@ -9,6 +9,7 @@ auto func(auto n,auto k){
     func(n-1,k+1);
 }
 
+
 int func1(int n,int k){
     if(n==0 || n==1){
         return k;
