@@ -1,7 +1,6 @@
 #include<iostream>
 using namespace std;
 
-
 int main(){
     char *ch=new char('H');
     int *p=new int(5);
