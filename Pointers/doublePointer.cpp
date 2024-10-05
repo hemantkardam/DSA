@@ -5,7 +5,6 @@ int main(){
     int x=10;
     int *p=&x;
 
-
     cout<<endl;
     cout<<"Value of X :"<<x<<endl;
     cout<<"Address of X :"<<p<<endl;
