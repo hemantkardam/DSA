@@ -6,6 +6,7 @@ int main(){
     float b=20;
     char c='j';
 
+
     void *s=&a;
     void *d=&b;
     void *e=&c;
