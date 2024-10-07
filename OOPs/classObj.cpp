@@ -15,6 +15,7 @@ class data{
     }
 };
 
+
 int main(){
     data obj1;
     obj1.setValue("Harry",15);
