@@ -23,6 +23,7 @@ int main(){
     cout<<"Enter a number:";
     cin>>n;
 
+
     Prime obj1;
     // if(obj1.isPrime(n)){
     //     cout<<"Is a prime no";
@@ -31,6 +32,6 @@ int main(){
     // }
     (obj1.isPrime(n))?cout<<"is prime":cout<<"is not a prime";
 
-    
+
     return 0;
 }
