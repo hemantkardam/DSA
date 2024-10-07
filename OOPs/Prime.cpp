@@ -30,8 +30,6 @@ int main(){
     //     cout<<"Is not a prime no";
     // }
     (obj1.isPrime(n))?cout<<"is prime":cout<<"is not a prime";
-
-
     
     return 0;
 }
