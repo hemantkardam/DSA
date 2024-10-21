@@ -7,7 +7,6 @@ int main(){
 
     cout<<(i!=-1)? 1:  1;
 }
-
 // class Stack{
 //     int *arr;
 //     int top;
