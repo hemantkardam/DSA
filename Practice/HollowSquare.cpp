@@ -19,7 +19,6 @@ int main(){
         }
         cout<<endl;
     }
-    
     // int n;
     // cout<<"Enter a number :";
     // cin>>n;
