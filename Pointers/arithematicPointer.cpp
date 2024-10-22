@@ -5,6 +5,7 @@ int main(){
     int a=10;
     int *p=&a;
 
+
     cout<<"Address of p-2 : "<<p-2<<endl;
     cout<<"Address of p-1 : "<<p-1<<endl;
     cout<<"Address of p : "<<p<<endl;
