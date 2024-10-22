@@ -3,7 +3,8 @@
 // 2. Double pointer -> Data type
 // 3. Float pointer 
 // 4. Char pointer 
-// 5. Long pointer 
+// 
+5. Long pointer 
 
 // 7. NUll pointer 
 // 8. Double pointer  (**) 
